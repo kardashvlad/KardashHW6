@@ -1,0 +1,15 @@
+C:\Users\Denis\Desktop\KardashHW6\KardashHW6\bin\Debug\net6.0\KardashHW6.exe
+C:\Users\Denis\Desktop\KardashHW6\KardashHW6\bin\Debug\net6.0\KardashHW6.deps.json
+C:\Users\Denis\Desktop\KardashHW6\KardashHW6\bin\Debug\net6.0\KardashHW6.runtimeconfig.json
+C:\Users\Denis\Desktop\KardashHW6\KardashHW6\bin\Debug\net6.0\KardashHW6.dll
+C:\Users\Denis\Desktop\KardashHW6\KardashHW6\bin\Debug\net6.0\KardashHW6.pdb
+C:\Users\Denis\Desktop\KardashHW6\KardashHW6\obj\Debug\net6.0\KardashHW6.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\KardashHW6\KardashHW6\obj\Debug\net6.0\KardashHW6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\KardashHW6\KardashHW6\obj\Debug\net6.0\KardashHW6.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\KardashHW6\KardashHW6\obj\Debug\net6.0\KardashHW6.AssemblyInfo.cs
+C:\Users\Denis\Desktop\KardashHW6\KardashHW6\obj\Debug\net6.0\KardashHW6.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\KardashHW6\KardashHW6\obj\Debug\net6.0\KardashHW6.dll
+C:\Users\Denis\Desktop\KardashHW6\KardashHW6\obj\Debug\net6.0\refint\KardashHW6.dll
+C:\Users\Denis\Desktop\KardashHW6\KardashHW6\obj\Debug\net6.0\KardashHW6.pdb
+C:\Users\Denis\Desktop\KardashHW6\KardashHW6\obj\Debug\net6.0\KardashHW6.genruntimeconfig.cache
+C:\Users\Denis\Desktop\KardashHW6\KardashHW6\obj\Debug\net6.0\ref\KardashHW6.dll
